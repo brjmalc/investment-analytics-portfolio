@@ -1,0 +1,17 @@
+{
+  "prepared_date": "2026-10-12",
+  "source_vintage": "202608 CRSP database",
+  "period": "2021-01 through 2025-12",
+  "files": [
+    {
+      "file": "6_Portfolios_2x3_CSV.zip",
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/6_Portfolios_2x3_CSV.zip",
+      "sha256": "82b66ccd6a4dff103eba51b60e1f2310eaa94bbebbb843550173b972c64cdbff"
+    },
+    {
+      "file": "F-F_Research_Data_Factors_CSV.zip",
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_CSV.zip",
+      "sha256": "593f4fbef03181bc0b22ff6292f217689dd1fb79355049ca905d95b262040a66"
+    }
+  ]
+}

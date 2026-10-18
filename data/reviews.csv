@@ -1,0 +1,7 @@
+review_id,manager_id,last_review_date,next_review_due,review_type,open_item
+R01,M01,2024-10-15,2025-10-15,Annual review,Risk questionnaire update outstanding
+R02,M02,2025-05-15,2026-05-15,Annual review,No open item
+R03,M03,2025-11-20,2026-01-15,Initial diligence,Onboarding review pending
+R04,M04,2025-06-30,2026-06-30,Annual review,Allocation concentration review pending
+R05,M05,2024-11-30,2025-11-30,Annual review,Updated process documentation outstanding
+R06,M06,2025-09-30,2026-09-30,Annual review,No open item

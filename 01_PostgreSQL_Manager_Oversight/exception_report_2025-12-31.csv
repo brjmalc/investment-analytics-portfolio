@@ -1,0 +1,7 @@
+"as_of_date","category","manager_id","manager_name","scope","finding"
+"2025-12-31","Allocation limit","M04","Sue","Current","Allocation 40.00% exceeds limit 35.00%"
+"2025-12-31","Benchmark underperformance","M01","Frank","2025-01-01 to 2025-12-31","Benchmark difference: -8.59 percentage points; benchmark: US_MARKET"
+"2025-12-31","Benchmark underperformance","M02","Mary","2025-01-01 to 2025-12-31","Benchmark difference: -6.13 percentage points; benchmark: US_MARKET"
+"2025-12-31","Benchmark underperformance","M03","Ellen","2025-01-01 to 2025-12-31","Benchmark difference: -6.03 percentage points; benchmark: US_MARKET"
+"2025-12-31","Overdue diligence","M01","Frank","Manager oversight","77 days overdue; due 2025-10-15"
+"2025-12-31","Overdue diligence","M05","Dave","Manager oversight","31 days overdue; due 2025-11-30"

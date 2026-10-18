@@ -1,0 +1,5 @@
+rule_id,metric,operator,threshold,unit,description
+MAX_WEIGHT,manager_weight,greater_than,0.35,decimal,Maximum manager allocation
+RETURN_LAG,trailing_12m_return_minus_market,less_than,-0.05,decimal,Trailing twelve-month benchmark lag
+OVERDUE,days_past_review_due,greater_than,0,days,Overdue manager review
+WEIGHT_SUM,absolute_difference_from_one,greater_than,1e-08,decimal,Allocation sum tolerance

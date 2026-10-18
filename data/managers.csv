@@ -1,0 +1,7 @@
+manager_id,manager_name,strategy_style,source_column,status,benchmark_id,data_basis
+M01,Frank,Small growth,SMALL LoBM,Allocated,US_MARKET,research_portfolio_proxy
+M02,Mary,Small neutral,ME1 BM2,Allocated,US_MARKET,research_portfolio_proxy
+M03,Ellen,Small value,SMALL HiBM,Candidate,US_MARKET,research_portfolio_proxy
+M04,Sue,Large growth,BIG LoBM,Allocated,US_MARKET,research_portfolio_proxy
+M05,Dave,Large neutral,ME2 BM2,Allocated,US_MARKET,research_portfolio_proxy
+M06,Richard,Large value,BIG HiBM,Allocated,US_MARKET,research_portfolio_proxy

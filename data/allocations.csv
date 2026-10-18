@@ -1,0 +1,13 @@
+scenario,manager_id,target_weight
+Current,M01,0.1
+Current,M02,0.1
+Current,M03,0
+Current,M04,0.4
+Current,M05,0.25
+Current,M06,0.15
+Proposed,M01,0.1
+Proposed,M02,0.1
+Proposed,M03,0.1
+Proposed,M04,0.3
+Proposed,M05,0.25
+Proposed,M06,0.15

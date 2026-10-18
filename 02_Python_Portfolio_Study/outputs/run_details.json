@@ -1,0 +1,15 @@
+{
+  "python": "3.14.7",
+  "pandas": "3.0.6",
+  "numpy": "2.5.4",
+  "analysis_period": "2021-01 to 2025-12",
+  "stress_period": "2022-01 to 2022-12",
+  "rebalancing": "monthly to target weights",
+  "return_units": "decimal",
+  "input_sha256": {
+    "managers.csv": "f45884c54d7e052a0b579c2f5bbb1721c4308f6d3fa343f240b03424c441a501",
+    "manager_returns.csv": "d43af084361000ac6e2c78d4c4bf39c676977c93e641a86cd04b27ccbee624d8",
+    "allocations.csv": "c4aa5b8a5c8a1758a95491473bf9d60d6b58c81ce5b4b0519ff54c08df08fc73",
+    "market_data.csv": "b767b2d961842e3c7dd4a6ea0b53dee58b96b67d32753a7fd22479202315777e"
+  }
+}
