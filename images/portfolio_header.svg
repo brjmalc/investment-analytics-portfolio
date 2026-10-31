@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+<title id="title">Brittany Malcolm — Financial Analyst Portfolio</title>
+<desc id="desc">Asset management, portfolio analysis and investment risk. Toolkit: SQL, Excel, Python, Tableau and Power BI.</desc>
+<rect width="1280" height="380" rx="16" fill="#10283F"/>
+<rect x="48" y="47" width="42" height="4" rx="2" fill="#56C6B4"/>
+<text x="106" y="55" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#90DACE">BRITTANY MALCOLM</text>
+<text x="48" y="133" font-family="Arial, sans-serif" font-size="49" font-weight="700" fill="#FFFFFF">Financial Analyst Portfolio</text>
+<text x="48" y="181" font-family="Arial, sans-serif" font-size="23" fill="#D3DFE9">Asset Management · Portfolio Analysis · Investment Risk</text>
+<line x1="48" y1="218" x2="1232" y2="218" stroke="#345066"/>
+<text x="48" y="252" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#9CB3C7">ANALYTICAL TOOLKIT</text>
+<rect x="48" y="273" width="155" height="52" rx="7" fill="#1C3B53" stroke="#486174"/><text x="125.5" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#F2F7FA">SQL</text>
+<rect x="219" y="273" width="155" height="52" rx="7" fill="#1C3B53" stroke="#486174"/><text x="296.5" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#F2F7FA">Excel</text>
+<rect x="390" y="273" width="180" height="52" rx="7" fill="#1C3B53" stroke="#486174"/><text x="480.0" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#F2F7FA">Python</text>
+<rect x="586" y="273" width="180" height="52" rx="7" fill="#1C3B53" stroke="#486174"/><text x="676.0" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#F2F7FA">Tableau</text>
+<rect x="782" y="273" width="190" height="52" rx="7" fill="#1C3B53" stroke="#486174"/><text x="877.0" y="306" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#F2F7FA">Power BI</text>
+</svg>
