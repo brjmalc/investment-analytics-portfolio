@@ -1,12 +1,28 @@
-# Investment Analytics Portfolio
+![Brittany Malcolm — Financial Analyst Portfolio. Asset Management, Portfolio Analysis and Investment Risk. SQL, Excel, Python, Tableau and Power BI.](images/portfolio_header.svg)
 
-**Portfolio construction · Manager oversight · Risk analysis · Investment reporting**
+<p align="center">
+  <a href="#featured-projects">Explore the projects</a> ·
+  <a href="https://public.tableau.com/views/PortfolioRiskDiversification/PortfolioRiskDiversification">Interactive dashboard</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
-[GitHub: brjmalc](https://github.com/brjmalc) · [Explore the interactive Tableau dashboard](https://public.tableau.com/views/PortfolioRiskDiversification/PortfolioRiskDiversification)
+## Introduction
 
-## Overview
+Welcome to my Financial Analyst Portfolio. My focus is on using financial data to evaluate investment performance, understand portfolio risk, and communicate findings that support informed allocation decisions.
 
-This portfolio follows one investment question through four connected projects: **what changes when a hypothetical multi-manager equity portfolio reallocates 10 percentage points from a large-growth proxy to a small-value proxy?**
+This portfolio brings together work relevant to asset management and portfolio analysis:
+
+- **Investment performance:** compounded returns, benchmark comparisons, and clear explanations of results.
+- **Portfolio construction:** manager allocations, diversification, correlations, and contributions to risk.
+- **Investment risk:** volatility, drawdowns, and historical stress analysis.
+- **Manager oversight:** data-quality checks, allocation limits, and diligence-review monitoring.
+- **Stakeholder reporting:** interactive dashboards and concise assessments of investment trade-offs.
+
+SQL, Excel, Python, Tableau, and Power BI form the toolkit highlighted here. The four featured projects demonstrate PostgreSQL, Python/Pandas, Power BI, and Tableau through one connected investment case study.
+
+## Featured investment study
+
+**What changes when a hypothetical multi-manager equity portfolio reallocates 10 percentage points from a large-growth proxy to a small-value proxy?**
 
 PostgreSQL establishes data and oversight controls, Python quantifies the allocation trade-offs, and Power BI and Tableau communicate the results. The study uses 60 months of public research portfolio returns, six fictional managers, and two allocation scenarios.
 
@@ -73,12 +89,9 @@ investment-analytics-portfolio/
 └── 04_Tableau_Risk_Dashboard/
 ```
 
-## Reproduce the analysis
+## Contact
 
-1. Download or clone this repository.
-2. Follow the PostgreSQL project README; set the six COPY paths to your local `data` folder before importing.
-3. Open the repository in VS Code, install the Python project's requirements, and run its notebook or script. The copied analysis locates the repository's `data` folder from the working directory.
-4. Open the Power BI workbook in Power BI Desktop. Repoint its file sources to the repository data and Python output folders before refreshing. Existing imported data are included in the workbook.
-5. Open the Tableau packaged workbook, or use the public dashboard link.
+I welcome conversations about Financial Analyst opportunities focused on asset management, portfolio analysis, investment risk, and reporting.
 
-Each project contains its own methods and limitations. The saved analytical outputs were generated during the original study; environment-specific setup paths have been adapted for sharing.
+- **GitHub:** [brjmalc](https://github.com/brjmalc)
+- **LinkedIn:** [Brittany Malcolm](https://www.linkedin.com/in/brittanyjmalcolm/)
